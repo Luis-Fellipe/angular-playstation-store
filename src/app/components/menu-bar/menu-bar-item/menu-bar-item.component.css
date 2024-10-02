@@ -1,0 +1,23 @@
+.menu-item {
+  display: flex;
+  margin: auto;
+  align-items: center;
+}
+
+.menu-item ul {
+  display: flex;
+  list-style: none;
+}
+
+.menu-item ul li {
+  padding: 5px;
+  margin-right: 15px;
+}
+
+.menu-item ul li a {
+  color: black;
+}
+
+.menu-item ul li a:hover {
+  color: blue;
+}
