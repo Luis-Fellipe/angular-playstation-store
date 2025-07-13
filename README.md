@@ -60,7 +60,7 @@ A comunicação entre o componente pai (`home.component.html`) e os componentes 
 ```
 
 ✔️ **HTML Semântico e Organização Visual**:  
-Estrutura limpa, intuitiva e responsiva, com foco na experiência visual e clareza do código.
+Estrutura limpa e intuitiva, com foco na experiência visual e clareza do código.
 
 ---
 
